@@ -9,6 +9,7 @@ Type '/cd backend'.
 Type 'npm install' in the terminal to download all dependencies.
 To start the server type 'npm run start'.
 
+Navigate back to the main folder.
 Type 'npm install' in the terminal to download all dependencies.
 Type 'npm i @tanstack/react-query' to install tanstack.
 To start the server type 'npm run dev'.
