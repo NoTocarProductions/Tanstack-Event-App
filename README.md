@@ -16,3 +16,7 @@ To start the server type 'npm run dev'.
 
 A new window will open with the running app.
 
+
+P.S. This code comes from 'React - The Complete Guide 2024 (incl. React Router & Redux)' Udemy course.
+It highlights which methods I've learned to use regarding Tanstack & query routing.
+
